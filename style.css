@@ -59,6 +59,12 @@ h1{
 }
     
 
+a:hover{
+    font-size: 16.5px;
+    color: rgb(247, 232, 232);
+}
+
+
 @media(prefers-color-scheme: #000){
     body{background-color:#000;color:#fff
     }
